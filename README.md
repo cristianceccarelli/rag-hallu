@@ -1,6 +1,6 @@
 # rag-hallu
 
-This repo contains the code developed for the paper _Knowledge-Grounded Detection of Factual Hallucinations in Large Language Models_. If the notebooks are not working, the code is also available at the following link: [rag-hallu]([https://website-name.com](https://drive.google.com/drive/folders/1tGiB0uGEBy_-uY5uGikPN5zpnn7VJzUG?usp=sharing)).
+This repo contains the code developed for the paper _Knowledge-Grounded Detection of Factual Hallucinations in Large Language Models_. If the notebooks are not working, the code is also available at the following link: [rag-hallu][https://drive.google.com/drive/folders/1tGiB0uGEBy_-uY5uGikPN5zpnn7VJzUG?usp=sharing].
 
 ## Structure of the Repository
 The repository is structured in the following way:
